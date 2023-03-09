@@ -8,12 +8,12 @@ function openItem(evt, item_name) {
       tabcontent[i].style.display = "none";
     }
   
-    // Get all elements with class="tablinks" and remove the class "active"
+    // Call all elements with class="tablinks" and remove the class "active"
     tablinks = document.getElementsByClassName("tablinks");
     for (i = 0; i < tablinks.length; i++) {
       tablinks[i].className = tablinks[i].className.replace(" active", "");
     }
-    // Show the current tab, and add an "active" class to the link that opened the tab
+    // Present the existing tab, and add the active class to the link to open the tab
     document.getElementById(item_name).style.display = "block";
     evt.currentTarget.className += " active";
   }

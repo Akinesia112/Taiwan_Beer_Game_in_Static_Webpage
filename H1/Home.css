@@ -1,19 +1,19 @@
-/*Background setting*/
-#Back_ground{
+/* Background setting */
+#Background{
     width: 100%;
     height: auto;
     display: flex;
     position: absolute;
     z-index: 0;
 }
-.back_ground{
+.background{
     width: 100%;
     height: auto;
     display: flex;
     position: absolute;
     z-index: 0;
 }
-/* Style the tab */
+/* Tab style setting */
 .tab {
     float: left;
     left: 66%;
@@ -22,7 +22,7 @@
     position:relative;
 }
   
-/* Style the buttons that are used to open the tab content */
+/* Buttons style setting of opening tab content */
 .tab button {
     display: block;
     background-color: inherit;
@@ -58,17 +58,17 @@
     position:relative;
     z-index: 5;
 }
-  /* Change background color of buttons on hover */
+  /* Setting the background color of buttons on hover */
   .tab button:hover {
     background-color: #dddddd;
   }
   
-  /* Create an active/current "tab button" class */
+  /* Setting the color of active/current tab button class */
   .tab button.active {
     background-color: #cc0000;
   }
   
-  /* Style the tab content */
+  /* Setting the style of tab content */
   .tabcontent {
     float: left;
     right: 20%;
