@@ -16,3 +16,5 @@
 9. A "comfortable" special effect will appear after receiving the item
 10. The number received will be recorded on the left, and the game will end after receiving five, and a notice box will pop up
 11. Press "OK" to return to the home page
+
+![Watch the video](Web_Demo.mp4)
