@@ -17,4 +17,7 @@
 10. The number received will be recorded on the left, and the game will end after receiving five, and a notice box will pop up
 11. Press "OK" to return to the home page
 
-![Watch the video](Web_Demo.mp4)
+
+
+https://user-images.githubusercontent.com/97179312/230396990-e97bbbbd-a884-44c6-88ed-877742f90180.mp4
+
